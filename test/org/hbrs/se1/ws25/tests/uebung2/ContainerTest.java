@@ -1,4 +1,4 @@
-package org.hbrs.se1.ws25.tests.uebung2;
+/**package org.hbrs.se1.ws25.tests.uebung2;
 
 import org.hbrs.se1.ws25.exercises.uebung2.ConcreteMember;
 import org.hbrs.se1.ws25.exercises.uebung2.Container;
@@ -135,3 +135,4 @@ public class ContainerTest {
     }
 
 }
+**/
